@@ -57,10 +57,6 @@ n8n is [fair-code](https://faircode.io) distributed under the [Sustainable Use L
 
 Additional information about the license model can be found in the [docs](https://docs.n8n.io/reference/license/).
 
-## Contributing
-
-Found a bug 🐛 or have a feature idea ✨? Check our [Contributing Guide](https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md) to get started.
-
 ## Join the Team
 
 Want to shape the future of automation? Check out our [job posts](https://n8n.io/careers) and join our team!
